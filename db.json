@@ -1,0 +1,192 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "name": "Employee to Entrepreneur",
+      "currentlyReading": true,
+      "finished": false,
+      "bookState": "Finished",
+      "date": "2015-02-12",
+      "url": "11.png",
+      "timeRead": "15-minute read",
+      "author": {
+        "id": 1,
+        "username": "First_user",
+        "first_name": "First",
+        "last_name": "User",
+        "full_name": "First User",
+        "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+      },
+      "stats": {
+        "views": 101,
+        "likes": 500,
+        "retweets": 50,
+        "responses": 43
+      },
+      "body": "Beyond Entrepreneurship 2.0 (2020) updates Jim Collins and Bill Lazier’s essential 1992 business handbook, Beyond Entrepreneurship for the entrepreneurs, visionaries, and innovators of today. This new edition combines the timeless business advice and strategy of the original text, supplemented with cutting-edge insights and case studies pertinent to today’s business world.",
+      "for": "One of the key learnings for entrepreneurs is the understanding of the reality about success and how extraordinary opportunities, instead of talent, pave the way to excellence.",
+      "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+      "aim": "Turning Your Business into an Enduring Great Company"
+    },
+    {
+      "id": 2,
+      "name": "Doesn't Hurt to Ask",
+      "currentlyReading": false,
+      "finished": true,
+      "date": "2015-02-13",
+      "bookState": "Read again",
+      "url": "3.png",
+      "timeRead": "13-minute read",
+      "author": {
+        "id": 4,
+        "username": "Fourth_user",
+        "first_name": "Fourth",
+        "last_name": "User",
+        "full_name": "Fourth User",
+        "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+      },
+      "stats": {
+        "views": 2100,
+        "likes": 5002,
+        "retweets": 250,
+        "responses": 423
+      },
+      "body": "Beyond Entrepreneurship 2.0 (2020) updates Jim Collins and Bill Lazier’s essential 1992 business handbook, Beyond Entrepreneurship for the entrepreneurs, visionaries, and innovators of today. This new edition combines the timeless business advice and strategy of the original text, supplemented with cutting-edge insights and case studies pertinent to today’s business world.",
+      "for": "One of the key learnings for entrepreneurs is the understanding of the reality about success and how extraordinary opportunities, instead of talent, pave the way to excellence.",
+      "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+      "aim": "Turning Your Business into an Enduring Great Company"
+    },
+    {
+      "id": 3,
+      "name": "The Fate of Food",
+      "currentlyReading": true,
+      "finished": false,
+      "bookState": "Finished",
+      "date": "2018-06-02",
+      "url": "4.png",
+      "timeRead": "13-minute read",
+      "author": {
+        "id": 4,
+        "username": "Fourth_user",
+        "first_name": "Fourth",
+        "last_name": "User",
+        "full_name": "Fourth User",
+        "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+      },
+      "stats": {
+        "views": 3100,
+        "likes": 5300,
+        "retweets": 501,
+        "responses": 543
+      },
+      "body": "Beyond Entrepreneurship 2.0 (2020) updates Jim Collins and Bill Laziers essential 1992 business handbook, Beyond Entrepreneurship for the entrepreneurs, visionaries, and innovators of today. This new edition combines the timeless business advice and strategy of the original text, supplemented with cutting-edge insights and case studies pertinent to todays business world.",
+      "for": "One of the key learnings for entrepreneurs is the understanding of the reality about success and how extraordinary opportunities, instead of talent, pave the way to excellence.",
+      "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+      "aim": "Turning Your Business into an Enduring Great Company"
+    },
+    {
+      "id": 4,
+      "name": "Lives of the Stoics",
+      "currentlyReading": false,
+      "finished": true,
+      "bookState": "Read again",
+      "date": "2012-06-13",
+      "url": "5.png",
+      "timeRead": "13-minute read",
+      "author": {
+        "id": 3,
+        "username": "Third_user",
+        "first_name": "Third",
+        "last_name": "User",
+        "full_name": "Third User",
+        "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+      },
+      "stats": {
+        "views": 4200,
+        "likes": 5002,
+        "retweets": 520,
+        "responses": 4342
+      },
+      "body": "One of the key learnings for entrepreneurs is the understanding of the reality about success and how extraordinary opportunities, instead of talent, pave the way to excellence.",
+      "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+      "aim": "Turning Your Business into an Enduring Great Company"
+    },
+    {
+      "id": 5,
+      "name": "Loving Your Business",
+      "currentlyReading": false,
+      "finished": true,
+      "bookState": "Read again",
+      "url": "6.png",
+      "date": "2015-02-23",
+      "timeRead": "13-minute read",
+      "author": {
+        "id": 6,
+        "username": "emusk",
+        "first_name": "Elon",
+        "last_name": "Musk",
+        "full_name": "Elon Musk",
+        "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+      },
+      "stats": {
+        "views": 5100,
+        "likes": 500,
+        "retweets": 50,
+        "responses": 43
+      },
+      "body": "My aspiration for Twitter, or in general for the digital town square, would be that it is as inclusive in the broadest sense of the word as possible,” Musk replied. “It obviously cannot be a place where [people] feel uncomfortable or harassed, or they’ll simply not use it.",
+      "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+      "aim": "Turning Your Business into an Enduring Great Company"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "First_user",
+      "first_name": "First",
+      "last_name": "User",
+      "full_name": "First User",
+      "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Second_user",
+      "first_name": "Second",
+      "last_name": "User",
+      "full_name": "Second User",
+      "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+    },
+    {
+      "id": 3,
+      "username": "Third_user",
+      "first_name": "Third",
+      "last_name": "User",
+      "full_name": "Third User",
+      "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+    },
+    {
+      "id": 4,
+      "username": "Fourth_user",
+      "first_name": "Fourth",
+      "last_name": "User",
+      "full_name": "Fourth User",
+      "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+    },
+    {
+      "id": 5,
+      "username": "Fifth_user",
+      "first_name": "Fifth",
+      "last_name": "User",
+      "full_name": "Fifth User",
+      "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+    },
+    {
+      "id": 6,
+      "username": "emusk",
+      "first_name": "Elon",
+      "last_name": "Musk",
+      "full_name": "Elon mUsk",
+      "avatar_url": "https://res.cloudinary.com/dety84pbu/image/upload/v1606816219/kitty-veyron-sm_mctf3c.jpg"
+    }
+  ]
+}
